@@ -3,5 +3,3 @@ numpy==1.25.0
 streamlit==1.13.0
 streamlit_option_menu
 matplotlib
-seaborn
-re
