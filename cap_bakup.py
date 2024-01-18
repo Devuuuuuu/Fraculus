@@ -6,7 +6,7 @@ import numpy as np
 import re
 from streamlit_option_menu import option_menu
 from sympy import ceiling
-import wolframalpha
+
 
 def gamma(n):
     if n.is_integer():
