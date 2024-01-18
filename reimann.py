@@ -3,7 +3,6 @@ import streamlit as st
 import sympy as sm
 import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns
 import re
 from streamlit_option_menu import option_menu
 from sympy import ceiling
