@@ -7,6 +7,9 @@ import reimann
 import cap_bakup
 import streamlit as st
 import re
+import toml
+
+config = toml.load(".streamlit/config.toml")
 
 st.set_page_config(layout="wide")
 
